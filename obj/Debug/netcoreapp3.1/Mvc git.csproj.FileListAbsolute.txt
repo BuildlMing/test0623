@@ -1,0 +1,35 @@
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\appsettings.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.exe
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.deps.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.runtimeconfig.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.runtimeconfig.dev.json
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.dll
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.pdb
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.Views.dll
+D:\build school\Mvc git\bin\Debug\netcoreapp3.1\Mvc git.Views.pdb
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.csprojAssemblyReference.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\staticwebassets\Mvc git.StaticWebAssets.Manifest.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\staticwebassets\Mvc git.StaticWebAssets.xml
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.MvcApplicationPartsAssemblyInfo.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.RazorAssemblyInfo.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.RazorAssemblyInfo.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.AssemblyInfoInputs.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.AssemblyInfo.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.TagHelpers.input.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.TagHelpers.output.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.RazorCoreGenerate.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.RazorTargetAssemblyInfo.cache
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.RazorTargetAssemblyInfo.cs
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.Views.pdb
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.dll
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.pdb
+D:\build school\Mvc git\obj\Debug\netcoreapp3.1\Mvc git.csproj.CopyComplete
